@@ -17,7 +17,7 @@ SkyHighRelief is part of the AFWERX Challenge, enhancing operational capabilitie
 - **Description**: A virtual event highlighting the Sky High Relief Challenge, detailing the AFWERX Challenge process and outcomes of cross-sector collaboration. Hear from the USAF Aircrew Performance sponsor team and solution providers, including Airion Health, about their challenge experiences and successes.
 - **Registration**: Open to U.S. and allied country innovators. Please share this invite to enhance impact and collaboration. [Register here](https://www.zoomgov.com/webinar/register/WN_N2JW9xFtR2icKuTRiQ4FIw?tk=9zOkSdBj7w6oUr63PKCo-hiBcDps21iRXvFlrPbHB3k.AG.JyaZjK53CbbuoGzXmRkhW1hlGUtQQ1qIRImZcLyQOiFpqAltaNTPgIJwJbyUi4CNNjQoQNwZ0pHIROONRcjFsbumx-uGdUvSXULcE0rKKmwM0Q.jp6l4KkaVcGTwLJC8HEROQ._AjvF_Cdp4uexrlX#)
 
-## Scientifically Grounded Solutions
+## Brainstorming Solutions
 
 ### 1. Advanced Wearable Catheter Systems
 - **Science**: Uses biocompatible materials that adapt to body heat and movement, with a valve that activates during urination. Silver nanoparticle coatings offer antimicrobial properties, reducing infection risks.
