@@ -1,8 +1,11 @@
 # Sky High Relief
+
 ![Sky High Relief Project Logo](img/sky_high_relief_logo.png)
 
 This GitHub repository focuses on developing advanced bladder relief systems for female aircrew. Our aim is to provide safe, comfortable, and effective hydration and relief solutions for extended flights.
 
+![WASP, 1944](img/WASP_on_runway_Laredo_Texas_1944.png)  
+*WASP, 1944.*
 ## Project Overview
 
 SkyHighRelief is part of the AFWERX Challenge, enhancing operational capabilities and health safety for female aircrew by improving current bladder relief systems. We invite contributions from innovators and researchers to address this issue. For more details on our project and to ask any questions, visit our [Sky High Relief Ask Me Anything (AMA)](https://afwerxchallenge.com/air/sky-high-relief-ask-me-anything-ama) page.
@@ -37,12 +40,18 @@ SkyHighRelief is part of the AFWERX Challenge, enhancing operational capabilitie
 ### 7. Integration with Health Monitoring Systems
 - **Science**: Employs non-invasive near-infrared (NIR) spectroscopy for continuous urinary metabolite monitoring, providing real-time kidney function and hydration level data.
 
-## Contributing
+## Elevating the Well-Being of Female Military Aviators: A Dual Victory for Equality and National Security
 
-We encourage diverse field participation to foster innovation in developing practical, scientifically sound solutions. Refer to our issues tab to engage with current challenges or propose new ideas.
+We encourage diverse participation to foster innovation in practical, scientifically sound solutions. Visit our issues tab to discuss challenges or propose ideas.
 
 ## License
 
-Licensed under the MIT License. For details, see the `LICENSE` file in this repository.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-These approaches meet aviation demands, merging science with practical applications for innovation and effectiveness.
+Our methods address aviation needs by combining science with practical innovation for effectiveness.
+
+# Credit
+
+For insights and stories on developing our advanced bladder relief systems, visit [SkyHighRelief Story](https://afwerxchallenge.com/blog/skyhighreliefstory).
+
+Credit also to participants and contributors of the [Sky High Relief Ask Me Anything (AMA)](https://afwerxchallenge.com/air/sky-high-relief-ask-me-anything-ama) for their invaluable feedback that shaped our solutions.
